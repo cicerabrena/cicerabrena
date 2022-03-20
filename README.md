@@ -3,7 +3,7 @@
 
 <br>
 
-[![Twitter Badge](https://img.shields.io/badge/-twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ccbrens)
+[![Twitter Badge](https://img.shields.io/badge/-twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cbbrens)
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cicerabrens/)
 
 <br>
