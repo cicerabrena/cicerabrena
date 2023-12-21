@@ -3,7 +3,7 @@
 
 <img align="right" width="200px" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1">
 
-Me chamo Cícera Brena, e sou uma mera desenvolvedora backend atuando como **fullstack.** Estou sempre em busca de aprimorar meus conhecimentos ou desenvolver novas habilidades.
+Me chamo Cícera Brena, e sou uma desenvolvedora backend atuando como **fullstack.** Estou sempre em busca de aprimorar meus conhecimentos ou desenvolver novas habilidades.
 
 #### Onde me encontrar
 
